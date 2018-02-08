@@ -1,0 +1,20 @@
+{
+  "name": "wootstrap-cli",
+  "version": "0.0.0",
+  "description": "CLI for wootstrap (webpack and typescript bootstrap) - node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusaini/wootstrap-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anusaini/wootstrap-cli/issues"
+  },
+  "homepage": "https://github.com/anusaini/wootstrap-cli#readme"
+}
